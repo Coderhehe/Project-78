@@ -4,4 +4,4 @@ var images = [
     var i=0;
     function nextone(){ document.getElementById("img").src=images[i];
     i++;
-    if(i==9){i=0;}}
+    if(i==2){i=0;}}
